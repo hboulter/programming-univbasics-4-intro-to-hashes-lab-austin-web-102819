@@ -17,7 +17,7 @@ end
 def my_hash_creator(key, value)
   name = key
   age = value
-  p name: "age"
+  p name: age
   # return a hash that includes the key and value parameters passed into this method
 end
 
